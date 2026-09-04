@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Praveen Patil
 
-<!--
-**praveenpatil18/praveenpatil18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science engineering student specializing in Data Science. I enjoy building full-stack web applications, working with data-driven models, and creating smart software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🚀 What I'm Working On
+* **Full Stack Development:** Building responsive frontends and robust backends.
+* **Data Science & AI/ML:** Analyzing datasets, training models, and building machine learning systems.
+* **Core Fundamentals:** Data Structures & Algorithms, Python, and Software Architecture.
+
+---
+
+# 🛠 Tools & Frameworks
+* **Programming Languages:** Python, JavaScript, C / C++
+* **Web Development:** HTML5, CSS3, JavaScript, Web Frameworks
+* **Data & AI:** Data Analysis, Machine Learning, Data Visualization
+* **Developer Tools:** VS Code, Git, GitHub
+
+---
+ Connect With Me
+* **Email:** praveenspatil2005@gmail.com
